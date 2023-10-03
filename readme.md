@@ -1,7 +1,5 @@
 # OMDb api fetcher
 
-[![Node.js Package](https://github.com/RandomModules/omdb-api-fetcher/actions/workflows/npm-publish-github-packages.yml/badge.svg?branch=main)](https://github.com/RandomModules/omdb-api-fetcher/actions/workflows/npm-publish-github-packages.yml)
-
 Predefined OMDb api fetcher : this is a implement of the api feature of OMDb.
 
 ## Get started
