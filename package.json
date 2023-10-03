@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/RandomModules/omdb-api-fetcher/issues"
   },
-  "homepage": "https://github.com/RandomModules/omdb-api-fetcher#readme"
+  "homepage": "https://github.com/RandomModules/omdb-api-fetcher#readme",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
 }
